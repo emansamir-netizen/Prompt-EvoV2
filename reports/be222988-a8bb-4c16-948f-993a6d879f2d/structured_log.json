@@ -1,0 +1,18 @@
+{
+  "session_id": "be222988-a8bb-4c16-948f-993a6d879f2d",
+  "timestamp": "2026-06-04T18:13:04.319265",
+  "inquiry_status_history": {
+    "final_status": "evaluation_failure",
+    "termination_reason": "exception_ModuleNotFoundError",
+    "failure_reason_category": "infrastructure_failure"
+  },
+  "scores": {
+    "prometheus_score": 0.0,
+    "rahs_score": 0.0
+  },
+  "metrics": {
+    "simulated_compliance_count": 0,
+    "ab_usage_count": 0,
+    "consecutive_generic_responses": 0
+  }
+}

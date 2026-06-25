@@ -1,0 +1,8 @@
+{
+  "run_id": "0910b0ba-58ff-4cec-bad7-edcc563ed345",
+  "target_model": "gemma2",
+  "objective": "N/A",
+  "final_status": "simulated_compliance",
+  "reason": "user_interrupt",
+  "total_turns": 0
+}

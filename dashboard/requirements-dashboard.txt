@@ -1,0 +1,10 @@
+# Dashboard layer dependencies (separate from the engine's requirements).
+# Core is already required by the project; only streamlit + pandas are hard deps.
+streamlit>=1.30
+pandas>=1.5
+
+# Optional — the dashboard degrades gracefully without these:
+#   plotly                → richer dark charts (else Streamlit-native charts)
+#   streamlit-autorefresh → hands-free live updates (else a Refresh button)
+plotly>=5.18
+streamlit-autorefresh>=1.0.1

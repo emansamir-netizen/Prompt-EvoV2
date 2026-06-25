@@ -1,0 +1,8 @@
+{
+  "run_id": "5b90f054-16a9-4693-ad3c-6ceefe06a45f",
+  "target_model": "llama3.2:1b",
+  "objective": "test objective for thread_id check",
+  "final_status": "simulated_compliance",
+  "reason": "run_exit",
+  "total_turns": 0
+}

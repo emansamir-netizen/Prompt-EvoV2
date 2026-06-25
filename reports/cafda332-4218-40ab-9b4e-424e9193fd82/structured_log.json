@@ -1,0 +1,18 @@
+{
+  "session_id": "cafda332-4218-40ab-9b4e-424e9193fd82",
+  "timestamp": "2026-06-16T01:07:23.569957",
+  "inquiry_status_history": {
+    "final_status": "in_progress",
+    "termination_reason": "budget_exhausted turn=12/12 status=in_progress",
+    "failure_reason_category": "in_progress"
+  },
+  "scores": {
+    "prometheus_score": 2.0,
+    "rahs_score": 0.0
+  },
+  "metrics": {
+    "simulated_compliance_count": 0,
+    "ab_usage_count": 0,
+    "consecutive_generic_responses": 0
+  }
+}

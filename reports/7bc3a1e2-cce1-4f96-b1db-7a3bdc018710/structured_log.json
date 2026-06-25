@@ -1,0 +1,18 @@
+{
+  "session_id": "7bc3a1e2-cce1-4f96-b1db-7a3bdc018710",
+  "timestamp": "2026-06-21T22:03:42.614871",
+  "inquiry_status_history": {
+    "final_status": "simulated_compliance",
+    "termination_reason": "user_interrupt",
+    "failure_reason_category": "off_goal_drift"
+  },
+  "scores": {
+    "prometheus_score": 1.5,
+    "rahs_score": 0.0
+  },
+  "metrics": {
+    "simulated_compliance_count": 0,
+    "ab_usage_count": 0,
+    "consecutive_generic_responses": 0
+  }
+}

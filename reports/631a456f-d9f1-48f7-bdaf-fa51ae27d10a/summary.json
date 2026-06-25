@@ -1,0 +1,8 @@
+{
+  "run_id": "631a456f-d9f1-48f7-bdaf-fa51ae27d10a",
+  "target_model": "llama-3.1-8b-instant",
+  "objective": "N/A",
+  "final_status": "simulated_compliance",
+  "reason": "user_interrupt",
+  "total_turns": 0
+}

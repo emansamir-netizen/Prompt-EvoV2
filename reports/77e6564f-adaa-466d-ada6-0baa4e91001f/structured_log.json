@@ -1,0 +1,18 @@
+{
+  "session_id": "77e6564f-adaa-466d-ada6-0baa4e91001f",
+  "timestamp": "2026-05-29T18:08:52.730868",
+  "inquiry_status_history": {
+    "final_status": "evaluation_failure",
+    "termination_reason": "non_success_terminal status=evaluation_failure turn=6/30",
+    "failure_reason_category": "infrastructure_failure"
+  },
+  "scores": {
+    "prometheus_score": 0.0,
+    "rahs_score": 0.0
+  },
+  "metrics": {
+    "simulated_compliance_count": 0,
+    "ab_usage_count": 0,
+    "consecutive_generic_responses": 0
+  }
+}

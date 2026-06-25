@@ -1,0 +1,27 @@
+__pycache__/
+*.py[cod]
+.env
+.env.bak
+*.faiss
+*.pkl
+data/audit_runs/
+data/memory/
+data/memory/tltm_vectors/
+data/turn_records.jsonl
+.venv/
+dist/
+build/
+*.egg-info/
+
+# LangGraph checkpoint store (SqliteSaver) — ephemeral resumable session state.
+# Can grow large; never commit it. See ARCHITECTURE_REVIEW.md BUG-1.
+checkpoints.db
+checkpoints.db-*
+*.bloated-bak
+
+# Transient dev/debug artifacts (logs, traces, one-off scratch output)
+*.log
+trace*.txt
+main_out*.txt
+session_log.txt
+full_log.txt

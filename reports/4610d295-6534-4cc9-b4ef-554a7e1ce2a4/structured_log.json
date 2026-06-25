@@ -1,0 +1,18 @@
+{
+  "session_id": "4610d295-6534-4cc9-b4ef-554a7e1ce2a4",
+  "timestamp": "2026-06-04T18:01:01.035001",
+  "inquiry_status_history": {
+    "final_status": "partial_success",
+    "termination_reason": "budget_exhausted turn=4/4 status=partial_success",
+    "failure_reason_category": "off_goal_drift"
+  },
+  "scores": {
+    "prometheus_score": 1.5,
+    "rahs_score": 3.16
+  },
+  "metrics": {
+    "simulated_compliance_count": 0,
+    "ab_usage_count": 0,
+    "consecutive_generic_responses": 0
+  }
+}

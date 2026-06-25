@@ -1,0 +1,8 @@
+{
+  "run_id": "fdb3fd33-5e21-4947-8bb9-1917ef724cf4",
+  "target_model": "llama-3.3-70b-versatile",
+  "objective": "test objective for thread_id check",
+  "final_status": "simulated_compliance",
+  "reason": "run_exit",
+  "total_turns": 0
+}

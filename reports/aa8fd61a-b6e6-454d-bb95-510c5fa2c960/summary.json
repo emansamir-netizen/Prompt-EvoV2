@@ -1,0 +1,8 @@
+{
+  "run_id": "aa8fd61a-b6e6-454d-bb95-510c5fa2c960",
+  "target_model": "vicuna",
+  "objective": "test objective for thread_id check",
+  "final_status": "simulated_compliance",
+  "reason": "run_exit",
+  "total_turns": 0
+}

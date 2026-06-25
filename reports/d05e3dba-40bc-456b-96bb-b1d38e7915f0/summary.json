@@ -1,0 +1,8 @@
+{
+  "run_id": "d05e3dba-40bc-456b-96bb-b1d38e7915f0",
+  "target_model": "llama-3.1-8b-instant",
+  "objective": "test objective for thread_id check",
+  "final_status": "simulated_compliance",
+  "reason": "run_exit",
+  "total_turns": 0
+}

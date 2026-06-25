@@ -1,0 +1,18 @@
+{
+  "session_id": "e4ec2895-cc21-4526-b562-f3ffc35425d8",
+  "timestamp": "2026-06-18T01:04:37.828531",
+  "inquiry_status_history": {
+    "final_status": "in_progress",
+    "termination_reason": "router_terminal_budget_exhausted turn=12/12",
+    "failure_reason_category": "off_goal_drift"
+  },
+  "scores": {
+    "prometheus_score": 1.5,
+    "rahs_score": 0.0
+  },
+  "metrics": {
+    "simulated_compliance_count": 0,
+    "ab_usage_count": 0,
+    "consecutive_generic_responses": 0
+  }
+}

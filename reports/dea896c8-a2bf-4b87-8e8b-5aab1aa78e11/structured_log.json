@@ -1,0 +1,18 @@
+{
+  "session_id": "dea896c8-a2bf-4b87-8e8b-5aab1aa78e11",
+  "timestamp": "2026-06-19T21:52:45.739131",
+  "inquiry_status_history": {
+    "final_status": "in_progress",
+    "termination_reason": "budget_exhausted turn=12/12 status=in_progress",
+    "failure_reason_category": "in_progress"
+  },
+  "scores": {
+    "prometheus_score": 1.0,
+    "rahs_score": 0.0
+  },
+  "metrics": {
+    "simulated_compliance_count": 0,
+    "ab_usage_count": 0,
+    "consecutive_generic_responses": 0
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "session_id": "699a226b-754c-4c52-9f48-f6128b8dfa9d",
+  "timestamp": "2026-06-23T23:56:11.011744",
+  "inquiry_status_history": {
+    "final_status": "success",
+    "termination_reason": "insight_confirmed prom=4.00 turn=4/30",
+    "failure_reason_category": ""
+  },
+  "scores": {
+    "prometheus_score": 4.0,
+    "rahs_score": 5.136
+  },
+  "metrics": {
+    "simulated_compliance_count": 0,
+    "ab_usage_count": 0,
+    "consecutive_generic_responses": 0
+  }
+}

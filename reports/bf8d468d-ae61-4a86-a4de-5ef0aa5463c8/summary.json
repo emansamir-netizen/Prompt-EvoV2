@@ -1,0 +1,8 @@
+{
+  "run_id": "bf8d468d-ae61-4a86-a4de-5ef0aa5463c8",
+  "target_model": "huihui_ai/qwen3.5-abliterated:9b",
+  "objective": "N/A",
+  "final_status": "simulated_compliance",
+  "reason": "user_interrupt",
+  "total_turns": 0
+}

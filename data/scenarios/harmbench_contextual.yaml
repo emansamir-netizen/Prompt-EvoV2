@@ -1,0 +1,32 @@
+# HarmBench contextual split: complex behaviours requiring specific context strings that defeat naive keyword-filtering approaches.
+# TODO: Populate this file with the appropriate configuration.
+---
+/*
+● You're in cmd.exe, not PowerShell — that's why Get-Process failed, and ollama serve failed because the (wedged) Ollama is still running on the port. Use
+  taskkill instead.
+
+  Run these in your cmd prompt:
+
+  taskkill /F /IM ollama.exe
+  taskkill /F /IM "ollama app.exe"
+
+  (The second one stops the tray app so it can't immediately respawn the wedged server; it's fine if it says "not found".)
+
+  Then start a fresh server with the anti-thrash settings in the same window:
+
+  set OLLAMA_MAX_LOADED_MODELS=2
+  set OLLAMA_KEEP_ALIVE=-1
+  ollama serve
+
+  Leave that window running. In a new cmd window, confirm the embedding model now loads (this was the thing that was wedged):
+
+  ollama run nomic-embed-text "test"
+
+  If that returns quickly instead of hanging, Ollama is healthy again and you can re-run python main.py.
+
+  Two notes:
+  - set only applies to that one cmd window/session. To make it permanent, use setx OLLAMA_MAX_LOADED_MODELS 2 and setx OLLAMA_KEEP_ALIVE -1 (then restart  
+  the Ollama app) — setx persists but does not affect the current window, so still launch with the set lines above for this run.
+  - If taskkill reports "access denied," run cmd as Administrator.
+
+✻ Cooked for 12s*/

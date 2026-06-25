@@ -1,0 +1,8 @@
+{
+  "run_id": "c0dc34f5-2b1d-4ec1-b2cb-c5e7f8e66456",
+  "target_model": "gemma2",
+  "objective": "test objective for thread_id check",
+  "final_status": "simulated_compliance",
+  "reason": "run_exit",
+  "total_turns": 0
+}
