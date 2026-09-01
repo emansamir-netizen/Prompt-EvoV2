@@ -78,20 +78,6 @@ Six layers feeding a single context window through a Memory Retriever and Contex
 
 ---
 
-## Results
-
-> **TODO — fill this in before sharing the repo.**
-> This section is the difference between a described system and a measured one.
-> Include: target models tested (with versions), number of runs, attack success rate per model,
-> the false-positive rate before and after the evidence gate, and the date the runs were made.
-> If a number is not reproducible from this repo, do not publish it.
-
-| Target model | Runs | Attack success rate | Notes |
-|---|---|---|---|
-| _model_ | _n_ | _%_ | _conditions_ |
-
-Method: [describe the run configuration, the goal set used, and the judging criteria version, so the numbers above can be reproduced from a clean checkout.]
-
 ---
 
 ## Requirements
