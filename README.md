@@ -202,20 +202,8 @@ Published deliberately. A tool that audits other systems should be honest about 
 
 PromptEvo was submitted as a graduation project at the Faculty of Artificial Intelligence, Menoufia University, supervised by Prof. Osama Abdel Raouf. Final grade: 96/100.
 
-Team: Mohammed Elsayed, Mahmoud Asem, Habiba Wael, Zeyad Ayman, Mohamed Zaki, Ali Elsabagh, Eman Mohamed Samir ElNowehy.
 
-**This fork is maintained by [Eman Mohamed Samir ElNowehy](https://www.linkedin.com/in/eman-elnowehy-7b5183296).** The upstream repository is [whabeba/Prompt-EvoV2](https://github.com/whabeba/Prompt-EvoV2).
-
-My contributions to the codebase were four component groups:
-
-1. **Reconnaissance and planning** — Scout Planner, goal generation, seed creation, and MCTS strategy ranking.
-2. **Attack agents** — HIVE MIND, GCI, RMCE and the Decomposer, including the refusal-count routing that escalates between them.
-3. **Evaluation** — the Judge, RedDebate, the RAHS scorer, and the evidence aggregation that gates verdicts.
-4. **Memory** — all six layers, the Memory Retriever and the Context Aggregator.
-
-Beyond the engine, the platform was delivered as a CLI, a FastAPI service and a React dashboard, with 106 tests.
-
-I also wrote the project documentation: a ten-chapter engineering book covering architecture, component responsibilities, data flow, evaluation methodology, test coverage and known technical debt.
+**This fork is maintained by [Eman Mohamed Samir ElNowehy](https://www.linkedin.com/in/eman-elnowehy-7b5183296). 
 
 ---
 
